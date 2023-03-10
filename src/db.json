@@ -1,0 +1,46 @@
+{
+    "blogs":[
+        {
+            "title":"Hobes and priest",
+            "body":"Long jorney to west world",
+            "author":"Roony",
+            "dateofrealse":"25-06-2021",
+            "id":"1"
+        },
+         {
+            "title":"Kinght rises",
+            "body":"Long jorney to west world",
+            "author":"Mike Stuert",
+            "dateofrealse":"27-06-2022",
+            "id":"2"
+        },
+         {
+            "title":"Lason Hobbies",
+            "body":"Long jorney to west world",
+            "author":"Jacson Strut",
+            "dateofrealse":"27-06-2021",
+            "id":"3"
+        },
+         {
+            "title":"Mechiel west",
+            "body":"Long jorney to west world",
+            "author":"die young",
+            "dateofrealse":"2-07-2021",
+            "id":"4"
+        },
+         {
+            "title":"colman smith",
+            "body":"Long jorney to west world",
+            "author":"priesten king",
+            "dateofrealse":"11-0-2021",
+            "id":"5"
+        },
+         {
+            "title":"Haggert",
+            "body":"Long jorney to west world",
+            "author":"location",
+            "dateofrealse":"30-01-2021",
+            "id":"6"
+        }
+    ]
+}

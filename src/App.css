@@ -1,0 +1,26 @@
+.Main{
+  font-family: 'Bebas Neue', cursive; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Table:hover{
+  background-color: springgreen;
+  padding: -10;
+}
+.blog-img-1{
+  margin-top: -15px;
+  float:right;
+}
+.cname{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 1.5rem;
+}
+.bloghead{
+  color:black;
+  font-size: 1.5rem;
+  text-shadow: 0px 0px 2px blue;
+}
+.card:hover{
+  background-color:palegreen;
+}
